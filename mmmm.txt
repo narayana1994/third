@@ -1,7 +1,10 @@
-heloo sha
+iheloo sha
 hello vishnu
 hello narayana
 
 good eveing
 welcome to bnglr
 ia m going to home
+
+hi this is mahesh
+i am learning devops
